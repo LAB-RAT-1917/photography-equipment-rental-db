@@ -1,6 +1,6 @@
 # Photography Equipment Rental Database
 
-CIS 344 – Individual Project
+Database Design and Programming – Individual Project
 
 ## Overview
 A MySQL database for a single-location photography equipment rental shop. It tracks customers, employees, equipment models and individual units, rentals, payments, and repairs. The project includes a hand-drawn Chen ER diagram, a UML diagram from MySQL Workbench, sample data, and ten business queries.
@@ -23,4 +23,4 @@ A MySQL database for a single-location photography equipment rental shop. It tra
 - MySQL 8.0
 - MySQL Workbench 8.0
 
-– CIS 344, Fall 2026
+– Database Design and Programming, Fall 2026
